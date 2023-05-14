@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "https://nebulae9b.github.io/csb-rzmibi/static/css/main.76939843.css",
+    "main.js": "https://nebulae9b.github.io/csb-rzmibi/static/js/main.4aeaa88c.js",
+    "index.html": "https://nebulae9b.github.io/csb-rzmibi/index.html",
+    "main.76939843.css.map": "https://nebulae9b.github.io/csb-rzmibi/static/css/main.76939843.css.map",
+    "main.4aeaa88c.js.map": "https://nebulae9b.github.io/csb-rzmibi/static/js/main.4aeaa88c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.76939843.css",
+    "static/js/main.4aeaa88c.js"
+  ]
+}
